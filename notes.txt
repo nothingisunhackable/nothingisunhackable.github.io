@@ -1,0 +1,28 @@
+to update the content:
+
+1. open powershell and cd to this folder
+
+2. do the changes
+
+edit _config.yml for changes.
+
+to create a new post:
+
+inside _post folder make a new file with following format:
+YEAR-MONTH-DAY-title.md
+
+example:
+2023-04-20-New Blog.md
+
+all the changes in this blog will be done in md lang and use jekyll formatting style.
+
+3. run:
+bundle exec jekyll serve
+
+4. now run:
+git add --all
+git commit -m message”
+git push
+
+DONE!
+
