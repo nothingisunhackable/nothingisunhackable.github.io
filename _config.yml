@@ -18,15 +18,15 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: nothing is hackable blog # the main title
+title: nothing is unhackable # the main title
 
-tagline: sub-title # it will display as the sub-title
+tagline: a infosec blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   sub-title.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://nothingisunhackable.github.io"
+url: 'https://nothingisunhackable.github.io'
 
 github:
   username: zexceed012 # change to your github username
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: himanshugupta
+  name: himanshu-gupta
   email: himanshu.infosec007@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
